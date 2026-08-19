@@ -43,6 +43,8 @@ The thumbnail provider will be unregistered and removed from your system.
 
 CX Watch Face Thumbnails replaces generic file icons with previews of the actual watch faces, making large watch face collections much easier to browse.
 
+![CX Watch Face Thumbnails in Windows Explorer](CXWatchFaceThumbnails-Screenshot.png)
+
 ## Source Code
 
 CX Watch Face Thumbnails is currently distributed as a compiled Windows shell extension.
